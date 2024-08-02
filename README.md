@@ -1,6 +1,6 @@
 ### Hello there! 👋
 
 - 🎩 Christopher, he/him
-- 💻 JavaScript and TypeScript Developer
-- ✨ Nuxt 3 / Vue 3, Tailwind CSS, Discord.JS, Fastify
+- 💻 TypeScript Developer, plan to look into Java and Rust in the future.
+- ✨ Nuxt, Vue, Tailwind CSS, Discord.JS, Fastify.
 - 🧭 Find more on [my website!](https://ggsky.one/)
