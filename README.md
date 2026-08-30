@@ -41,23 +41,22 @@ My old stuff.
 
 I don't have much open-source stuff, please no judgement, thanks.
 
--   [GGSkyOne/portfolio-backend](https://github.com/GGSkyOne/portfolio-backend). Go-based backend for my portfolio site. Thanks to it you can track what I'm currently coding and listening to, and also you can check the weather in my city...with UV index and AQI...yeah.
--   [GGSkyOne/zed-portfolio-presence](https://github.com/GGSkyOne/zed-portfolio-presence). I forked `zed-discord-presence` to stream coding activity to my portfolio site via LSP. Thanks to it I have a cool coding widget.
--   [GGSkyOne/api-key-manager](https://github.com/GGSkyOne/api-key-manager). Pelican plugin for managing API keys via admin routes, don't ask why, it is what it is.
+-   [portfolio-backend](https://github.com/GGSkyOne/portfolio-backend). Go-based backend for my portfolio site. Thanks to it you can track what I'm currently coding and listening to, and also you can check the weather in my city...with UV index and AQI...yeah.
+-   [zed-portfolio-presence](https://github.com/GGSkyOne/zed-portfolio-presence). I forked `zed-discord-presence` to stream coding activity to my portfolio site via LSP. Thanks to it I have a cool coding widget.
+-   [api-key-manager](https://github.com/GGSkyOne/api-key-manager). Pelican plugin for managing API keys via admin routes, don't ask why, it is what it is.
 
 ## Mods
 
 As mentioned above, sometimes I do Minecraft modding.
 
--   [modrinth.com/mod/alternative-authentication](https://modrinth.com/mod/alternative-authentication). Use third-party authentication servers on your server without interfering with Mojang authentication. I created it for my SMP server out of frustration with existing login mods, worked flawlessly.
--   [modrinth.com/mod/origins-legacy-classes](https://modrinth.com/mod/origins-legacy-classes). As a fan of the original Origins mod, I ported the Classes addon to the new versions of Minecraft, enjoy.
+-   [alternative-authentication](https://modrinth.com/mod/alternative-authentication). Use third-party authentication servers on your server without interfering with Mojang authentication. I created it for my SMP server out of frustration with existing login mods, worked flawlessly.
+-   [origins-legacy-classes](https://modrinth.com/mod/origins-legacy-classes). As a fan of the original Origins mod, I ported the Classes addon to the new versions of Minecraft, enjoy.
 
 ## Connect w/ me
 
--   [t.me/ggskyone](https://t.me/ggskyone). Chat with me here.
--   [t.me/ggskydev](https://t.me/ggskydev). Follow new projects on my Telegram channel here.
-
-If you prefer email, sorry, I don't have the public one yet! (surely I'll find the time to set up email on my domain)
+-   [t.me/ggskyone](https://t.me/ggskyone). Chat w/ me here.
+-   [t.me/ggskydev](https://t.me/ggskydev). Follow my projects on Telegram.
+-   [hey@ggsky.one](mailto:hey@ggsky.one). Or email me, if you're feeling formal.
 
 ## r/BroThrewInAFunFact
 
